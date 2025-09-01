@@ -43,13 +43,12 @@ This project replicates core e-commerce functionality like **product listing, ad
 Clone the repository:
 
 ```bash
-git clone https://github.com/<your-username>/myntra-clone.git
+git clone https://github.com/NakulKUM/react-myntra-clone.gitt
 cd myntra-clone
 
 Install dependencies:
-
-```bash
 npm install
+
 npm run dev
 npm run build
 npm run preview
